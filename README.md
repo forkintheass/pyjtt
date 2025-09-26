@@ -22,7 +22,7 @@ PyJTT will get issues with accordance to filter from JIRA at start, but if you w
 - Start tracking button will start timer for "online" tracking. 
 - Existed worklogs can be edited on Worklogs tab.
 
-##Troubleshooting
+## Troubleshooting
 1) Certificate package
 https://stackoverflow.com/questions/27835619/urllib-and-ssl-certificate-verify-failed-error
 2) Building as an .app with icon
